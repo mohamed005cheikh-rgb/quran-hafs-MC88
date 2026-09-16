@@ -21,19 +21,17 @@
 ## 📸 لمحة من الداخل
 
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/quran-hafs-mc88/raw/main/images/Sc1.png" alt="صفحة القراءة" width="100%" />
+  <img src="https://github.com/mohamed005cheikh-rgb/quran-hafs-mc88/raw/main/images/Sc13.jpg" alt="صفحة القراءة" width="100%" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/quran-hafs-mc88/raw/main/images/Sc2.png" alt="تخصيص المظهر والخط" width="100%" />
-</div>
+
 
 <br />
 
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/quran-hafs-mc88/raw/main/images/Sr1.gif" alt="البحث في النص القرآني" width="100%" />
+  <img src="https://github.com/mohamed005cheikh-rgb/quran-hafs-mc88/raw/main/images/Sr6.gif" alt="البحث في النص القرآني" width="100%" />
 </div>
 
 <br />
