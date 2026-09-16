@@ -37,7 +37,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/quran-hafs-mc88/raw/main/images/Sr2.gif" alt="تجربة القراءة على الهاتف" width="100%" />
+  <img src="https://github.com/mohamed005cheikh-rgb/quran-hafs-mc88/raw/main/images/Sr6.gif" alt="تجربة القراءة على الهاتف" width="100%" />
 </div>
 
 ---
